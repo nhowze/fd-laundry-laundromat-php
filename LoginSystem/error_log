@@ -1,0 +1,10 @@
+[26-Nov-2019 11:35:32 America/Chicago] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 13 in /home1/nhowze/public_html/frontdoorlaundry.com/Laundromats/LoginSystem/register.php on line 75
+[26-Nov-2019 11:36:15 America/Chicago] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 13 in /home1/nhowze/public_html/frontdoorlaundry.com/Laundromats/LoginSystem/register.php on line 75
+[26-Nov-2019 11:37:17 America/Chicago] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 13 in /home1/nhowze/public_html/frontdoorlaundry.com/Laundromats/LoginSystem/register.php on line 75
+[26-Nov-2019 11:37:39 America/Chicago] PHP Warning:  preg_match(): Compilation failed: range out of order in character class at offset 13 in /home1/nhowze/public_html/frontdoorlaundry.com/Laundromats/LoginSystem/register.php on line 75
+[11-Jun-2020 15:55:33 America/Chicago] PHP Warning:  file_get_contents(https://frontdoorlaundry.com/Laundromats/Emails/resetpasswordtemplate.php?message=Your password was successfully reset!): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/nhowze/public_html/Websites/frontdoorlaundry.com/Laundromats/includes/simple_html_dom.php on line 82
+[11-Jun-2020 15:55:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function find() on boolean in /home1/nhowze/public_html/Websites/frontdoorlaundry.com/Laundromats/LoginSystem/updatepasswordunsecured.php:69
+Stack trace:
+#0 {main}
+  thrown in /home1/nhowze/public_html/Websites/frontdoorlaundry.com/Laundromats/LoginSystem/updatepasswordunsecured.php on line 69
